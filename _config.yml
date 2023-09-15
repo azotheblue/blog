@@ -5,7 +5,7 @@ logo: /static/img/avatar.jpg
 github: 
 about: Curious Adventurer of New Things
 
-baseurl: ""
+baseurl: "/Blog"
 url: ""
 
 allowsearch: true
