@@ -5,7 +5,7 @@ logo: "https://azotheblue.github.io/Blog/static/img/avatar.jpg"
 github: 
 about: Curious Adventurer of New Things
 
-baseurl: "/Blog/"
+baseurl: ""
 url: ""
 
 allowsearch: true
