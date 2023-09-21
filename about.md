@@ -24,7 +24,7 @@ With that, there will be mostly topics focused in the CS space.  However, that's
 
 ## CONTACT
 
-If you have any questions or comments about this site, please let me know at [azotheblue@proton.me](azotheblue@proton.me)
+If you have any questions or comments about this site, please let me know at [azotheblue@proton.me](mailto:azotheblue@proton.me)
 
 
 
