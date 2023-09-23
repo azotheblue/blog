@@ -10,6 +10,7 @@ permalink: /readinglist/
 With the right mentor and deliberate practice, one can achieve greatness
 
 > This is a fundamental truth about any sort of practice: If you never push yourself beyond your comfort zone, you will never improve - Anders Ericson
+
 ### [SO GOOD THEY CAN'T IGNORE YOU](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124)
 
 Having a disciplined focused trumps passion.
@@ -30,6 +31,7 @@ Brimming with insight on to pursue an intellectual vocation
 Structure and order to your knowledge will assist in the convergence of ideas
 
 > "verum ipsum factum " (We Only Know what we make) - Vico
+
 ### [DEEP WORK](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 
 To thrive in a distracting world, you must be able to focus deeply more than ever
