@@ -3,6 +3,14 @@ layout: page
 title: Reading List
 permalink: /readinglist/
 ---
+## DIGITAL DISSENT 
+
+### [10 ARGUMENTS TO DELETE SOCIAL MEDIA](https://a.co/d/8gLtsxX)
+
+The title says it all.
+
+> “Social media is biased, not to the Left or the Right, but downward”  -- Jaron Lanier
+
 ## EXPERTISE
 
 ### [PEAK](https://a.co/d/40STZOB)
@@ -11,9 +19,15 @@ With the right mentor and deliberate practice, one can achieve greatness
 
 > This is a fundamental truth about any sort of practice: If you never push yourself beyond your comfort zone, you will never improve - Anders Ericson
 
+### [MASTERY](https://a.co/d/9o8hgKl)
+
+One must devote their life to the journey towards mastery
+
+> "Do not talk about giftedness, inborn talents! One can name great men of kinds who were very little gifted.  They acquired greatness ...." - Friedrich Nietzsche
+
 ### [SO GOOD THEY CAN'T IGNORE YOU](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124)
 
-Having a disciplined focused trumps passion.
+Having a disciplined focus trumps passion.
 
 > "You're either remarkable or invisible " - Seth Godin
 
@@ -38,7 +52,8 @@ Brimming with insight on to pursue an intellectual vocation
 
 Become 1% better each day.
 
-> “You do not rise to the level of your goals. **You fall to the level of your systems**. Your goal is your desired outcome. Your system is the collection of daily habits that will get you there. - James Clear 
+> “You do not rise to the level of your goals. **You fall to the level of your systems**. Your goal is your desired outcome. Your system is the collection of daily habits that will get you there. 
+> James Clear 
 ### [BUILDING A SECOND BRAIN](https://a.co/d/6aG4rNe)
 
 Structure and order to your knowledge will assist in the convergence of ideas
@@ -50,9 +65,29 @@ Structure and order to your knowledge will assist in the convergence of ideas
 To thrive in a distracting world, you must be able to focus deeply more than ever
 
 >  Who you are, What you Think, Feel and do, is the sum of what you focus on - Winifred Gallaghe
+### [HOW TO SOLVE IT](https://a.co/d/0ELrRQx)
+
+Planning is a Crucial step to solve a problem
+
+> Analogy pervades all our thinking, -  George Pólya
 
 ### [WHEN](https://a.co/d/eL0VBa6)
 
 Nappuccinos are a game changer
 
 > “Elite performers have something in common: They’re really good at taking breaks” - Daniel Pink
+
+
+## SOCIAL SCIENCE
+
+### [ASSHOLES](https://a.co/d/5oqiU8m)
+
+Understanding one's perspective is a better tactic to confront a jerk 
+
+>“Assholes are a given fact of life. They are a fact of life we must somehow make peace with if we are to be at peace with life itself.” - Aaron James
+
+### [F YOU VERY MUCH](https://a.co/d/csEhlh9)
+
+Politeness is the cure for rudeness.
+
+> "Rudeness is a form of rebellion that we must rebel against" - Danny Wallace 
