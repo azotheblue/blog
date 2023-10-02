@@ -54,6 +54,7 @@ Become 1% better each day.
 
 > “You do not rise to the level of your goals. **You fall to the level of your systems**. Your goal is your desired outcome. Your system is the collection of daily habits that will get you there. 
 > James Clear 
+
 ### [BUILDING A SECOND BRAIN](https://a.co/d/6aG4rNe)
 
 Structure and order to your knowledge will assist in the convergence of ideas
@@ -65,6 +66,7 @@ Structure and order to your knowledge will assist in the convergence of ideas
 To thrive in a distracting world, you must be able to focus deeply more than ever
 
 >  Who you are, What you Think, Feel and do, is the sum of what you focus on - Winifred Gallaghe
+
 ### [HOW TO SOLVE IT](https://a.co/d/0ELrRQx)
 
 Planning is a Crucial step to solve a problem
