@@ -47,6 +47,7 @@ Pay yourself first.
 Basking in nature can have immense health benefits.
 
 > “Between every two pine trees there is a door leading to a new way of life. — JOHN MUIR”
+
 ## PHILOSOPHY
 
 ### [THE INTELLECTUAL LIFE](https://www.amazon.com/Intellectual-Life-Spirit-Conditions-Methods/dp/0813206464)
