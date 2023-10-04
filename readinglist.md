@@ -31,7 +31,7 @@ Having a disciplined focus trumps passion.
 
 > "You're either remarkable or invisible " - Seth Godin
 
-## FIANANCE  
+## FINANCE  
 
 ### [I WILL TEACH YOU TO BE RICH](https://a.co/d/3wNRqXQ)
 
