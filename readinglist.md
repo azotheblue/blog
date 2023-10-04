@@ -31,6 +31,15 @@ Having a disciplined focus trumps passion.
 
 > "You're either remarkable or invisible " - Seth Godin
 
+## FIANANCE  
+
+### [I WILL TEACH YOU TO BE RICH](https://a.co/d/3wNRqXQ)
+
+Pay yourself first.
+
+> “The 85 Percent Solution: Getting started is more important than becoming an expert.” - Ramit Sethi 
+
+
 ## HEALTH
 
 ### [THE NATURE FIX](https://a.co/d/1M4Mgbl)
