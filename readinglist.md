@@ -11,6 +11,18 @@ The title says it all.
 
 > “Social media is biased, not to the Left or the Right, but downward”  -- Jaron Lanier
 
+### [DIGITAL MINIMALISM](https://a.co/d/imI94H0)
+
+Just because technology makes something easier, does not make better
+
+>"All of man's problems stem from man's inability to sit quietly in a room" - Blaise Pascal
+
+### [REVENGE OF THE ANALOG](https://a.co/d/5UtDy4N)
+
+My favorite chapter... "Revenge of Board Games"
+
+>The digital world values analog more than anyone -David Lox
+
 ## EXPERTISE
 
 ### [PEAK](https://a.co/d/40STZOB)
@@ -58,6 +70,17 @@ Brimming with insight on to pursue an intellectual vocation
 
 ## PRODUCTIVITY
 
+### [7 HABITS OF HIGHLY EFFECTIVE PEOPLE](https://a.co/d/3gHLCab)
+
+The habit that can change the world.... "Seek First the Understand" 
+
+> “Most people do not listen with the intent to understand; they listen with the intent to reply.” - Stephen Covey
+
+### [12 WEEK YEAR](https://a.co/d/9MENCCe)
+
+To accomplish everything, Time Blocking is necessary   
+
+> “It’s not enough to be busy; so are the ants. The question is: What are we busy about?” —Henry David Thoreau”
 ### [ATOMIC HABITS](https://a.co/d/5As08A2)
 
 Become 1% better each day.
@@ -79,7 +102,7 @@ To thrive in a distracting world, you must be able to focus deeply more than eve
 
 ### [HOW TO SOLVE IT](https://a.co/d/0ELrRQx)
 
-Planning is a Crucial step to solve a problem
+Planning is a Crucial step to solve any problem
 
 > Analogy pervades all our thinking, -  George Pólya
 
