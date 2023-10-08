@@ -81,6 +81,7 @@ The habit that can change the world.... "Seek First the Understand"
 To accomplish everything, Time Blocking is necessary   
 
 > “It’s not enough to be busy; so are the ants. The question is: What are we busy about?” —Henry David Thoreau”
+
 ### [ATOMIC HABITS](https://a.co/d/5As08A2)
 
 Become 1% better each day.
