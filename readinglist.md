@@ -54,6 +54,11 @@ Pay yourself first.
 
 ## HEALTH
 
+### [BREATH](https://a.co/d/8ErLngJ)
+
+Better health is just a breath away
+
+> “Prayer heals, especially when it’s practiced at 5.5 breaths a minute.” - James Nestor
 ### [THE NATURE FIX](https://a.co/d/1M4Mgbl)
 
 Basking in nature can have immense health benefits.
