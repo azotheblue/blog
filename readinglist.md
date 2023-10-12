@@ -117,6 +117,8 @@ Planning is a Crucial step to solve any problem
 Why It Matters -> Say more with less
 
 > “The first sentence is your one—and likely only—chance to tell someone what they need to know and convince them not to move on.” -  Jim Vandehei
+
+
 ### [WHEN](https://a.co/d/eL0VBa6)
 
 Nappuccinos are a game changer
