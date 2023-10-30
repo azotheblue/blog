@@ -11,6 +11,7 @@ Incredible story told from the worlds first incident responder
 
 >“The hacker didn't succeed through sophistication. Rather he poked at obvious places, trying to enter through unlock doors. Persistence, not wizardry, let him through.” - Cliff Stoll
 
+
 ## DIGITAL DISSENT 
 
 ### [10 ARGUMENTS TO DELETE SOCIAL MEDIA](https://a.co/d/8gLtsxX)
