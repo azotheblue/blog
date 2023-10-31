@@ -3,6 +3,7 @@ layout: post
 title:  Knowledge Management for Cyber
 date:   2023-10-30 17:00:00
 categories: knowledge
+excerpt_separator: <!--more-->
 ---
 
 Knowledge is power, but how do you capture it ?
