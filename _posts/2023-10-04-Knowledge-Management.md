@@ -2,11 +2,12 @@
 layout: post
 title:  Knowledge Management for Cyber
 date:   2023-10-30 17:00:00
-categories: others
+categories: knowledge
 ---
 
 Knowledge is power, but how do you capture it ?
 
+<!--more-->
 
 ## STORY
 
@@ -140,7 +141,9 @@ Although I am not an expert in note taking here some tips that I have learned al
 Some final thoughts to leave you with:
 
 💾 “What is not saved is forgotten” 
+
 🏗️ Start building a system ( Doesn't have to be perfect)
+
 📈 Continuing improve over time
 
 Eventually I believe you can have a robust and living system that will help you in your career, cyber or otherwise!
