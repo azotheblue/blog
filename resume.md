@@ -3,12 +3,15 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+## INTODUCTION
 
 This is not going to be a typical bullet style resume.  Often, a resume does not provide an opportunity for reflection.  My intention here is to have a place where I (or future employers) can ruminate upon my professional journey. 
 
-*This is a not yet a complete professional journey.  More sections will be added as time permits
+*This is a not yet a complete professional journey.  More sections will be added as time permits*
 
-## CLINICAL INFORMATION SYSTEMS ADMINISTRATOR
+
+## JOURNEY
+### CLINICAL INFORMATION SYSTEMS ADMINISTRATOR
 
 📅2013-2017
 
