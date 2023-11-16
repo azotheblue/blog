@@ -11,6 +11,26 @@ This is not going to be a typical bullet style resume.  Often, a resume does not
 
 
 ## JOURNEY
+
+### INFOMATION SYSTEMS SECURITY OFFICER
+
+📅 2017-2018
+
+💭Lesson Learned
+
+As this was my first job towards the cyber security path, I was eager to learn all there was about security.  Unfortunately, this job turned to out to be less technical that I would hope for.  However, there were still many lessons that I learned along the way.  
+
+One of them being the paramount of process and procedures.  Although often overlooked, this is a critical piece in any organization.   But not only it is important to have these in place, these need to be followed.   
+
+🥇Greatest Accomplishment
+
+Automated many process and procedures of my daily task.  This was done by a using a combination of VS Code and Microsoft Access.  By any measure in today's standard, it was a laughable attempt to code.  Still, it was a special moment as it was my first time making something to improve a process. 
+
+🎯Skills Gained
+
+- Workflow Optimization
+- Risk Management
+- Procedure Creations
 ### CLINICAL INFORMATION SYSTEMS ADMINISTRATOR
 
 📅2013-2017
