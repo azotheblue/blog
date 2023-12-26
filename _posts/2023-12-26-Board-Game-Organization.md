@@ -6,7 +6,7 @@ categories: boardgames
 excerpt_separator: <!--more-->
 ---
 
-How I organize Board Games
+How I organize Board Games but also why I do?
 
 <!--more-->
 
