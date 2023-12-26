@@ -5,8 +5,6 @@ date: 2023-12-26 13:50:39
 categories: boardgames
 ---
 
-## A WAY TO ORGANIZE BOARD GAMES
-
 How I organize Board Games
 
 ## WHY BOARD GAMES
