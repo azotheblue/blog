@@ -38,7 +38,7 @@ examples of each category.
 
 ### PARTY
 
-![Party Games](/blog/assets/BOARDGAMES-PARTY.jpg);
+![Party Games](/blog/assets/BOARDGAMES-PARTY.JPG);
 
 These types of games center on the interaction with other humans.  Sometime you might have to hide the truth or bluff your way out of a tricky situation in some of these games. Most of the time, these games are usually a hit no matter what the player composition is.
 
@@ -50,7 +50,7 @@ These types of games center on the interaction with other humans.  Sometime you 
 
 ### COOPERATIVE
 
-![Cooperative Games](/blog/assets/BOARDGAMES-COOPERATIVE.jpg);
+![Cooperative Games](/blog/assets/BOARDGAMES-COOPERATIVE.JPG);
 
 Games that require cooperation with other players to win. This grouping of games put players against the mechanics of the game itself.  These games usually promote a great deal of conversation since they require the players to work together.  
 
@@ -62,7 +62,7 @@ Examples
 
 ### COMPETITIVE - ATTACK
 
-![Competitive - Attack](/blog/assets/BOARDGAMES-COMPETITIVE-ATTACK.jpg);
+![Competitive - Attack](/blog/assets/BOARDGAMES-COMPETITIVE-ATTACK.JPG);
 
 Games that have a mechanic where you can attack other players.  Often times when you attack other players, you aren't doing it silently. Sometimes you want to boast about your upcoming onslaught or perhaps you might need to beg for mercy from you opponent.  Either way these games provide a great avenue to converse.
 
@@ -74,7 +74,7 @@ Examples
 
 ### COMPETITIVE - POINTS
 
-![Competitive - Points](/blog/assets/BOARDGAMES-COMPETITIVE-POINTS.jpg);
+![Competitive - Points](/blog/assets/BOARDGAMES-COMPETITIVE-POINTS.JPG);
 
 Games that are won by accumulating points in some manner.  These types of games are my least favorite as they do not foster any type of interaction.  If everyone knew the rules of the game, not much table talk would happen.  Most of the fun comes from building a strategy around how to collect the most points, which usually results in minimum table talk.
 
