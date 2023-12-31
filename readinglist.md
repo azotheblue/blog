@@ -5,12 +5,23 @@ permalink: /readinglist/
 ---
 ## CYBER
 
+### [THE CODE BOOK](https://a.co/d/313i2Qd)
+
+From the begin of modern history, humans have been trying to hide their secrets
+
+> "The urge to discover secrets is deeply ingrained in human nature; even the least curious mind is roused by the promise of sharing knowledge withheld from others." - John Chadwick
+
 ### [THE CUCKOO'S EGG](https://a.co/d/iUd3x1o)
 
 Incredible story told from the worlds first incident responder
 
 >“The hacker didn't succeed through sophistication. Rather he poked at obvious places, trying to enter through unlock doors. Persistence, not wizardry, let him through.” - Cliff Stoll
 
+### [PRACTICAL THREAT ENGINEERING](https://a.co/d/4AXwHkS)
+
+Detection Engineering:  Developing detection for what you adversary wants 
+
+> "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the universe trying to produce bigger and better idiots. So far, the universe is winning" - Robert Cook
 
 ## DIGITAL DISSENT 
 
@@ -34,6 +45,11 @@ My favorite chapter... "Revenge of Board Games"
 
 ## EXPERTISE
 
+### [IMPROVEMENT OF THE MIND](https://a.co/d/bpSmJmK)
+
+In order to improve one's mind, be receptive and welcoming to new ideas
+
+> "No man is obliged to learn and know everything; this can neither be sought nor required, for it is utterly impossible; yet all person are under some obligation to improve their own understanding; otherwise it will be a barren desert, or a forest overgrown with weeds and brambles." - Sir Isaac Watts
 ### [PEAK](https://a.co/d/40STZOB)
 
 With the right mentor and deliberate practice, one can achieve greatness
