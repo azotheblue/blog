@@ -50,6 +50,7 @@ My favorite chapter... "Revenge of Board Games"
 In order to improve one's mind, be receptive and welcoming to new ideas
 
 > "No man is obliged to learn and know everything; this can neither be sought nor required, for it is utterly impossible; yet all person are under some obligation to improve their own understanding; otherwise it will be a barren desert, or a forest overgrown with weeds and brambles." - Sir Isaac Watts
+
 ### [PEAK](https://a.co/d/40STZOB)
 
 With the right mentor and deliberate practice, one can achieve greatness
