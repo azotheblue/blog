@@ -11,6 +11,37 @@ This is not going to be a typical bullet style resume.  Often, a resume does not
 
 ## JOURNEY
 
+### SENIOR THREAT DETECTION ANALYST
+
+📅 2019 - 2022
+
+💭Lesson Learned
+
+When I was first approached to take this opportunity, I was apprehensive at first. Things were going smoothly at my previous job and I finally was getting into a rhythm. However, things were started to get boring.  One lesson that I have learned about my self during this is transition  when I feeling a sense of boredom, it is mean that I am not being challenged enough.  The challenge is where I strive in and grow in.   
+
+It was quite daunting at when I first started. I was thrusted into a role of technical leadership.  The pressure, coupled with my determination to succeed, compelled me to evolve into a more proficient SOC Analyst. 
+
+Over the two years that I was in this position, there were many takeaways. So I will only highlight one of the most important. 
+
+**Preparedness Helps with Nervousness** 
+
+There were a few instances where I directly dealt with incidents in this role. Unlike my previous secondhand experience, I had never faced the brunt of an incident before. During my initial encounter, nervousness and anxiousness peaked. After the dust settled, I realized that remaining calm and collected was the best course of action. Additionally, I discovered that preparedness significantly helps alleviate anxiousness. Thus afterwards, I tried hard to fully understand our Incident Response procedures. 
+
+🥇Greatest Accomplishment
+
+Although not often glamorized, knowledge management plays a pivotal role in any team, particularly within a Security Operations Center. A thriving and living knowledge base is essential for maintaining the seamless flow of information in a SOC. Upon my arrival, I observed that our existing system, utilizing a note-taking application, was inadequate—lacking structure and regular updates.
+
+With the team's approval, I took it upon myself to initiate a comprehensive overhaul of our knowledge base, transitioning to a more modern system. This individual initiative was a significant endeavor, involving the meticulous review of years of stale data. Throughout this process, I implemented a streamlined system, introducing a new Response Guide Template.
+
+The success of revamping the knowledge base was undoubtedly a team effort that resulted in a positive shift in our operations. The fact that the knowledge base continues to be actively used today, as of this writing, is a testament to our collective commitment to a culture of continuous improvement.
+
+🎯Skills Gained
+
+- Mentoring
+- Incident Handling
+- Threat Hunting
+- Threat Intel
+- Correlation Search Development
 ### JUNIOR SECURITY OPERATIONS CENTER ANALYST
 
 📅 2018-2019
