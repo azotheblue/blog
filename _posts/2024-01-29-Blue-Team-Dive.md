@@ -1,12 +1,12 @@
 ---
 layout: post
-title: A Way To Organize Board Games
+title: What's in a Blue Team?
 date: 2024-01-29 17:00:00
 categories: cyber
 excerpt_separator: <!--more-->
 ---
 
-Go Blue Team! But who is in it? 
+Go Blue Team! But who is in it?        
 
 ## WHATS IN A BLUE TEAM?
 
