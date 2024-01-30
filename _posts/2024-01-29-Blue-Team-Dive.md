@@ -6,7 +6,7 @@ categories: cyber
 excerpt_separator: <!--more-->
 ---
 
-Go Blue Team! But what does that mean? 
+Go Blue Team! But what does that mean exactally???
 
 ## WHATS IN A BLUE TEAM?
 
