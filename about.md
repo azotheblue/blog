@@ -21,6 +21,11 @@ The realm of cyber security constantly in flux.  Knowing something yesterday doe
 
 With that, there will be mostly topics focused in the CS space.  However, that's not to say that I won't dive into other topics of interest.  
 
+## DISCLAIMER 
+
+This is probably and obvious statement being a personal blog and all but ...
+
+All views here are my own and no way reflect the views of my past or current employers.
 
 ## CONTACT
 

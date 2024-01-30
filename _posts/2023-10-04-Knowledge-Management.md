@@ -48,6 +48,7 @@ Here are some more important reasons to build your knowledge management system
 📝 **ORGANIZE** :  Having a system to process and store information
 
 🕸️ **CONNECTIONS** : With a system in place, you will be able to see connections
+
 ## TOOL
 
 So we know that we want to create a system, but now what tool should we use? 

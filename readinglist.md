@@ -167,3 +167,9 @@ Understanding one's perspective is a better tactic to confront a jerk
 Politeness is the cure for rudeness.
 
 > "Rudeness is a form of rebellion that we must rebel against" - Danny Wallace 
+
+### [TRIBE](https://a.co/d/3TWWDUQ)
+
+We all need the same thing in life; something to fight for and a sense of belonging
+
+> “When people are actively engaged in a cause their lives have more purpose... with a resulting improvement in mental health,” -  Sebastian Junger
