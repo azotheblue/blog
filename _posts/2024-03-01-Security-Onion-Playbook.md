@@ -6,9 +6,9 @@ categories: securityonion
 excerpt_separator: <!--more-->
 ---
 
-Let's peel another layer for Security Onion...
+Let's peel back another layer for Security Onion...
 
-## SECURITY ONOIN
+## SECURITY ONION
 
 Before diving into how to set up playbook on on Security Onion, it would probably be a good idea to explain what in the world a Security Onion is.  Security Onion is a fantastic open source Cyber Defense Tool.  It provides many of the needed tools and functionality need for a Security Operations Team to operate, all in a single package.   I personally have been using it since 2016 and have seen the great improvements the Security Onion Team has made over the years.  
 
@@ -52,7 +52,7 @@ Lets say for some reason we wanted to detect when someone used the `base64` comm
 
  3 **Submit the Play**
 
-![Security Onion Playbook - Step 1](/blog/assets/ONION-PLAYBOOK-STEP2.JPG)
+![Security Onion Playbook - Step 1](/blog/assets/ONION-PLAYBOOK-STEP3.JPG)
 
 4 **Active the Play**
 
