@@ -54,7 +54,7 @@ Lets say for some reason we wanted to detect when someone used the `base64` comm
 
 ![Security Onion Playbook - Step 1](/blog/assets/ONION-PLAYBOOK-STEP3.JPG)
 
-4 **Active the Play**
+4 **Activate the Play**
 
 ![Security Onion Playbook - Step 1](/blog/assets/ONION-PLAYBOOK-STEP4.JPG)
 
@@ -66,7 +66,7 @@ Lets say for some reason we wanted to detect when someone used the `base64` comm
 
 ## CONCLUSION
 
-In closing, playbooks help extension the detection frontier for Security Onion.  
+In closing, playbooks help extend the detection frontier for Security Onion.  
 
 This was more or less a way for me to explore how to setup and turn on a Playbook.  This was something I wanted to research for a while, and I figured writing a blog about it was the best way to do it.  
 
