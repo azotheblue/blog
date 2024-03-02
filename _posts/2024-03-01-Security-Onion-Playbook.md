@@ -6,7 +6,7 @@ categories: securityonion
 excerpt_separator: <!--more-->
 ---
 
-Let's peel back another layer for Security Onion...
+Let's peel back another layer for Security Onion by using Playbook!
 
 ## SECURITY ONION
 
