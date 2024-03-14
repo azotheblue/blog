@@ -7,7 +7,7 @@ permalink: /readinglist/
 
 ### [THE CODE BOOK](https://a.co/d/313i2Qd)
 
-From the begin of modern history, humans have been trying to hide their secrets
+From the beginning of modern history, humans have been trying to hide their secrets
 
 > "The urge to discover secrets is deeply ingrained in human nature; even the least curious mind is roused by the promise of sharing knowledge withheld from others." - John Chadwick
 
@@ -33,7 +33,7 @@ The title says it all.
 
 ### [DIGITAL MINIMALISM](https://a.co/d/imI94H0)
 
-Just because technology makes something easier, does not make better
+Just because technology makes something easier, does not make it better
 
 >"All of man's problems stem from man's inability to sit quietly in a room" - Blaise Pascal
 
@@ -105,7 +105,7 @@ Brimming with insight on to pursue an intellectual vocation
 
 ### [7 HABITS OF HIGHLY EFFECTIVE PEOPLE](https://a.co/d/3gHLCab)
 
-The habit that can change the world.... "Seek First the Understand" 
+The habit that can change the world.... "Seek First to Understand" 
 
 > “Most people do not listen with the intent to understand; they listen with the intent to reply.” - Stephen Covey
 
