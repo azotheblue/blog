@@ -17,11 +17,11 @@ This is not going to be a typical bullet style resume.  Often, a resume does not
 
 💭Lesson Learned
 
-When I was first approached to take this opportunity, I was apprehensive at first. Things were going smoothly at my previous job and I finally was getting into a rhythm. However, things were started to get boring.  One lesson that I have learned about my self during this is transition  when I feeling a sense of boredom, it is mean that I am not being challenged enough.  The challenge is where I strive in and grow in.   
+When I was first approached to take this opportunity, I was very apprehensive. Things were going smoothly at my previous job and I finally had gotten  into a rhythm. However, things started to get boring.  One lesson that I have learned about my self during this transition when I was feeling a sense of boredom, is that I am not being challenged enough.  The challenge is where I strive and grow.   
 
-It was quite daunting at when I first started. I was thrusted into a role of technical leadership.  The pressure, coupled with my determination to succeed, compelled me to evolve into a more proficient SOC Analyst. 
+Everything seemed so daunting at first. I was thrusted into a role of technical leadership.  This is where the feelings of intense pressure, coupled with my extreme determination to succeed, compelled me to evolve into a more proficient SOC Analyst. 
 
-Over the two years that I was in this position, there were many takeaways. So I will only highlight one of the most important. 
+Over the two years that I was in this position, there were many takeaways. I will only highlight one of the most important. 
 
 **Preparedness Helps with Nervousness** 
 
@@ -48,13 +48,13 @@ The success of revamping the knowledge base was undoubtedly a team effort that r
 
 💭Lesson Learned
 
-This opportunity was my first glimpse into the more technical side of Cyber Security.  Working in a Security Operations Center, I had to understand a vast amount of different tools and techniques needed to perform an through event analysis. It was frightening and also empowering to be the last line of defense for the organization.  
+This opportunity was my first glimpse into the more technical side of Cyber Security.  Working in a Security Operations Center, I had to understand a vast amount of different tools and techniques needed to perform through an event analysis. It was frightening and also empowering to be the last line of defense for the organization.  
 
-Being at the Nexus of all things Cyber, I learned quickly that cyber security is a constantly changing field.  You must keep learning and developing skills to stay ahead.  This lesson is something has stayed with me till this very day.
+Being at the Nexus of all things Cyber, I learned quickly that cyber security is a constantly changing field.  You must keep learning and developing skills to stay ahead.  This lesson is something that has stayed with me till this very day.
 
 🥇Greatest Accomplishment
 
-Unfortunately, during my time here I did not have any accomplishments worth mentioning.  However, what I will mention that I had an unquenchable thirst for knowledge.   When every I ran into something new, I asked many questions to be sure I understood it thoroughly.  This quest for information paid dividends as I was able to have a solid foundation for my future career 
+Unfortunately, during my time here I did not have any accomplishments worth mentioning.  However, what I will mention is that I had an unquenchable thirst for knowledge.   When I ran into something new, I asked many questions to be sure I understood it thoroughly.  This quest for information paid dividends as I was able to have a solid foundation for my future career.
 
 🎯Skills Gained
 
@@ -67,7 +67,7 @@ Unfortunately, during my time here I did not have any accomplishments worth ment
 
 💭Lesson Learned
 
-As this was my first job towards the cyber security path, I was eager to learn all there was about security.  Unfortunately, this job turned to out to be less technical that I would hope for.  However, there were still many lessons that I learned along the way.  
+As this was my first job towards the cyber security path, I was eager to learn all there was about security.  Unfortunately, this job turned to out to be less technical job that I would hope for.  However, there were still many lessons that I learned along the way.  
 
 One of them being the paramount of process and procedures.  Although often overlooked, this is a critical piece in any organization.   But not only it is important to have these in place, these need to be followed.   
 
@@ -86,13 +86,13 @@ Automated many process and procedures of my daily task.  This was done by a usin
 
 💭Lesson Learned
 
-This was my first job in the Information Technology realm so there were numerous lessons that I learned. The most impactful though was my realization of the value of customer service.  Being able to relate and communicate efficiently is of great importance.  If you are not able to, it is a frustrating experience for both parties. 
+This was my first job in the Information Technology realm so there were numerous lessons that I learned. The most impactful one was my realization of the value of customer service.  Being able to relate and communicate efficiently is of great importance.  If you are not able to, it is a extremely frustrating experience for both parties. 
 
 Though my definition of a customer has changed over time, this lesson is still of great relevance today.
 
 🥇Greatest Accomplishment
 
-Created a Role Based system for account access, an effort that span many months. In talking to many different clinics and departments, I was able to create 50 different roles.  This replaced the archaic mirror based access system that we had.  Even before I had any Cyber experience, I knew that this type of system had to go.  
+Created a Role Based system for account access, an effort that span over many months. In talking to many different clinics and departments, I was able to create 50 different roles.  This replaced the archaic mirror based access system that we had.  Even before I had any Cyber experience, I knew that this type of system had to go.  
 
 🎯Skills Gained
 
