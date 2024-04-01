@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Expertise in Cyber - Part 1
-date: 2024-04-31 23:00:00
+date: 2024-03-31 23:00:00
 categories: cyber
 excerpt_separator: <!--more-->
 ---
