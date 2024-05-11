@@ -6,7 +6,7 @@ categories: cyber
 excerpt_separator: <!--more-->
 ---
 
-Be a Cyber Spear not an Swiss Army Knife
+Be a Cyber Spear not an Cyber Swiss Army Knife
 
 <!--more-->
 
