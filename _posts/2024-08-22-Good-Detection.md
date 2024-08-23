@@ -19,12 +19,16 @@ First before going into my dissertation, it might be a good idea in to bring in 
 > A cyber threat detection is the  identification of potential security risks to  prevent or mitigate cyberattacks.
 
 With this, let's move on!
+
 # WHAT'S IN A DETECTION?
 
 Given my journey in switching from a negative frame of mind to a positive one, I wanted to include both ends of the spectrum.   There are 3 pieces of the detection Puzzle.  
 
+
 🗃️ **Context** - This piece represent the "why" of an alert.  This also represent the surrounding documentation of the alert and following actions to research. 
-💥 **Potency** - Is the ability for a detection to find it was intended to find without noise. 
+
+💥 **Potency** - Is the ability for a detection to find it was intended to find without noise.
+
 🎖️ **Confidence** - A detection is trustworthy if we know that it been put through rigorous validation
 
 It might be feasible to accomplish all the pieces but these are goal post that I think 
@@ -33,9 +37,10 @@ With this pieces below is a scale to put it all together!
 
 | Topic      | Bad                                    | Good                                         |
 | ---------- | -------------------------------------- | -------------------------------------------- |
-| Context    | No Context for Alerting                | Lot of surrounding data to unstand the alert |
+| Context    | No Context for Alerting                | Lot of surrounding data to understand the alert |
 | Potency    | Does not detect or Detect too much     | Detects only when evil happen                |
 | Confidence | No confience if alert will detect evil | Alert has been rigoulsy tested and validated |
+
 # WHAT DOES IT MEAN?
 
 Ideally, when I build a detection, these are the principles that I try in cooperate into it.  However its might be hard to know what to look for without something to go off of.  So what better way to do this then a checklist ✅! 
