@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
 A detection is the lifeblood of any cyber security operations.  It is how an organizations knows that evil has occurred within an environment.  **But have you ever wondered, what makes a good detection?**  Working in the queues as a Security Operations Center (SOC) Analyst, I had a idea what made a bad one.  Since transitioning to the role of a Detection Engineer, I my mindset  has changed to what makes a good one!
 
-First before going into my dissertation, it might be a good idea in to bring in the definition of a detection, specifically a threat detection.  
+First before going into my dissertation, it might be a good idea in to bring in the definition of a detection, specifically a threat detection.  There are many out there so this is a combination of a few. 
 
 > A cyber threat detection is the  identification of potential security risks to  prevent or mitigate cyberattacks.
 
@@ -31,15 +31,15 @@ Given my journey in switching from a negative frame of mind to a positive one, I
 
 🎖️ **Confidence** - A detection is trustworthy if we know that it been put through rigorous validation
 
-It might be feasible to accomplish all the pieces but these are goal post that I think 
+It not might be feasible to accomplish all the pieces but these are nice goal post 🥅
 
 With this pieces below is a scale to put it all together!
 
 | Topic      | Bad                                    | Good                                         |
 | ---------- | -------------------------------------- | -------------------------------------------- |
-| Context    | No Context for Alerting                | Lot of surrounding data to understand the alert |
-| Potency    | Does not detect or Detect too much     | Detects only when evil happen                |
-| Confidence | No confience if alert will detect evil | Alert has been rigoulsy tested and validated |
+| Context    | No Context for Alerting                 | Lot of surrounding data to understand the alert |
+| Potency    | Issues with alerting volume      | Detects only when evil happen                |
+| Confidence | No confidence if alert will detect evil  | Alert has been rigorously tested and validated |
 
 # WHAT DOES IT MEAN?
 
