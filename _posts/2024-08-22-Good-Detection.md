@@ -39,7 +39,7 @@ With this pieces below is a scale to put it all together!
 | ---------- | -------------------------------------- | -------------------------------------------- |
 | Context    | No Context for Alerting                 | Lot of surrounding data to understand the alert |
 | Potency    | Issues with alerting volume      | Detects only when evil happen                |
-| Confidence    |    No confidence if alert will detect evil     | Alert has been rigorously tested and validated |
+| Confidence    |    Detect evil 🤷    | Alert has been rigorously tested and validated |
 
 # WHAT DOES IT MEAN?
 
