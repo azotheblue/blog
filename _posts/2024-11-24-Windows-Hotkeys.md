@@ -6,7 +6,7 @@ categories: knowledge
 excerpt_separator: <!--more-->
 ---
 
-Knowledge is power, but how do you capture it ?
+The less you move the mouse, the faster you are!
 
 <!--more-->
 
