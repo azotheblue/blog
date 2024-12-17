@@ -153,6 +153,15 @@ Nappuccinos are a game changer
 
 > “Elite performers have something in common: They’re really good at taking breaks” - Daniel Pink
 
+## SCIENCE
+
+### [QUANTUM SUPREMACY](https://a.co/d/gbkY7sr)
+
+Q-Day is coming. Are you ready? 
+
+> “Why are quantum computers so powerful? he asks. Because the electrons are simultaneously calculating in parallel universes. They are interacting and interfering with each other via entanglement. So they can quickly outrace a traditional computer that computes in only one universe.” - Michio Kau
+
+
 
 ## SOCIAL SCIENCE
 
@@ -173,3 +182,4 @@ Politeness is the cure for rudeness.
 We all need the same thing in life; something to fight for and a sense of belonging
 
 > “When people are actively engaged in a cause their lives have more purpose... with a resulting improvement in mental health,” -  Sebastian Junger
+
