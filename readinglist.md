@@ -140,6 +140,13 @@ Planning is a Crucial step to solve any problem
 
 > Analogy pervades all our thinking, -  George Pólya
 
+### [ORIGINALS](https://a.co/d/hVcuFWj)
+
+Being original means to do something out of the ordinary
+
+> "Becoming Original is not the easiest path in the pursuit of happiness but it leaves us perfectly poised for the happiness of pursuit" - Adam Grant
+
+
 ### [SMART BREVEITY](https://a.co/d/2kNmE7L)
 
 Why It Matters -> Say more with less
