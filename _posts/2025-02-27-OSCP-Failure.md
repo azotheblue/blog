@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 
-Sometimes failures are the best lessons in life
+Sometimes failures are the best lessons
 
 <!--more-->
 
